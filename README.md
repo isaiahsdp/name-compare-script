@@ -12,10 +12,10 @@ This Python script compares names between two Excel files to check for matches.
 # Steps
 
 ### Make sure Python 3 is installed
-Verify Installation: python3 --version
+Verify Installation in your terminal: python3 --version
 
 #### Install required Python libraries
-pip install pandas openpyxl
+Terminal: pip install pandas openpyxl
 
 #### Put your Excel files in the same directory as compareCC.py or compareST.py
 
